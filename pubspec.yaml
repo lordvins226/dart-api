@@ -8,6 +8,7 @@ environment:
 
 dependencies:
   aqueduct: 3.3.0+1
+  postgres: ^1.0.0
 
 dev_dependencies:
   test: ^1.0.0

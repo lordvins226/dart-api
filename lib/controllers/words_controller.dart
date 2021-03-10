@@ -1,5 +1,5 @@
 import 'package:dart_api/dart_api.dart';
-
+import 'package:dart_api/models/word.dart';
 class WordsController extends ResourceController {
   final _words = [
     {"word": "phone"},

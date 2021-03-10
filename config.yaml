@@ -1,0 +1,6 @@
+database:
+  host: localhost
+  port: 5432
+  user: words_user
+  password: 260699
+  databaseName: words
